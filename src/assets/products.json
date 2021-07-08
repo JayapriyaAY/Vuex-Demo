@@ -1,0 +1,72 @@
+[	
+{
+  "id": 1,
+  "title" : "Back Cover ",
+  "description" : "Product 1 Description",
+  "price" : "150",
+  "img" : "images/backcover.png"
+},
+{
+  "id": 2,
+  "title" : "Laptop Speaker",
+  "description" : "Product 2 Description",
+  "price" : "800",
+  "img" : "images/laptopspeaker.png"
+},
+{
+  "id": 3,
+  "title" : "Mobile Folder",
+  "description" : "Product 3 Description",
+  "price" : "120",
+  "img" : "images/mobilefolder.png"
+},
+{
+  "id": 4,
+  "title" : "Pendrive",
+  "description" : "Product 4 Description",
+  "price" : "800",
+  "img" : "images/pendrive.png"
+},
+{
+  "id": 5,
+  "title" : "Wired Optical Mouse",
+  "description" : "Product 5 Description",
+  "price" : "500",
+  "img" : "images/mouse.png"
+},
+{
+  "id": 6,
+  "title" : "Selfie Stick",
+  "description" : "Product 6 Description",
+  "price" : "200",
+  "img" : "images/selfiestick.png"
+},
+{
+  "id": 7,
+  "title" : "Tempered Glass",
+  "description" : "Product 7 Description",
+  "price" : "180",
+  "img" : "images/temperedglass.png"
+},
+{
+  "id": 8,
+  "title" : "USB Cable",
+  "description" : "Product 8 Description",
+  "price" : "99",
+  "img" : "images/USBcable.png"
+},
+{
+  "id": 9,
+  "title" : "Wireless Headphone",
+  "description" : "Product 9 Description",
+  "price" : "1300",
+  "img" : "images/wirelessheadphones.png"
+},
+{
+  "id": 10,
+  "title" : "Wired USB Keyboard",
+  "description" : "Product 10 Description",
+  "price" : "1500",
+  "img" : "images/keyboard.png"
+}
+  ]
